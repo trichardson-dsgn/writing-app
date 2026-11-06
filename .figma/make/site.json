@@ -1,0 +1,11 @@
+{
+  "title": "AI Writing App",
+  "description": "Enables seamless backend operations to support web applications, ensuring reliable data management and efficient server-side functionality for developers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
